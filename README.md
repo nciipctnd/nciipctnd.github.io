@@ -1,2 +1,2 @@
 # nciipctnd.github.io
-This repository provides HTML pages for display on GitHub Pages.
+This repository holds MarkDown file (docs/index.md) for display on GitHub Pages.

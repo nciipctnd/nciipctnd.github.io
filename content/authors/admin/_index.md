@@ -38,7 +38,7 @@ profiles:
 highlight_name: false
 
 # Author's website URL
-website: "
+website: ""
 ---
 
 Administrator of the site

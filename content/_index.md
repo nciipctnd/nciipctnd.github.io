@@ -12,12 +12,6 @@ sections:
     content:
       title: Landing Page
       text: This is the landing page of the website
-      primary_action:
-        text: Read the documentation
-        url: /docs/
-      secondary_action:
-        text: Read the blog
-        url: /blog/
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -31,18 +25,4 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
-  - block: features
-    id: features
-    content:
-      title: What is available on the website
-      text: Use the menu items to do the following
-      items:
-        - name: Documentation
-          description: Access the technical documentation.
-        - name: Blog
-          description: Access the updates.
-        - name: Resources
-          description: Access the links to downloadable resources. 
-        - name: Community
-          description: Engage with the community.
 ---

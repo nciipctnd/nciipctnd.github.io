@@ -1,6 +1,7 @@
 ---
 title: Resources
 description: Links to downloadable resources
+url: /resources/
 
 sections:
   - block: hero

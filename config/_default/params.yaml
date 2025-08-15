@@ -39,11 +39,11 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
-    show_search: true
+#    button:
+#      enable: true
+#      text: "Get Started"
+#      url: "https://hugoblox.com/templates/details/docs/"
+#    show_search: true
     show_theme_chooser: true
 
 # Site footer
@@ -58,8 +58,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '15 Aug 2025'
+  time_format: '15:00'
 
 # Site features
 features:
